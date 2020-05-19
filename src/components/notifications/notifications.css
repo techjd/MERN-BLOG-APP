@@ -1,0 +1,60 @@
+
+
+center {
+    
+    margin: 20px;
+ }
+ 
+ h1 {
+     font-family: cursive;
+     color: #00D3FF;
+ }
+ 
+ h3 {
+     color: black;
+     text-align: justify;
+ }
+ 
+ p {
+     
+     font-family: sans-serif;
+     font-family: cursive;
+     color: black;
+     font-weight: 600;
+     font-size: 22px;
+ }
+ 
+ .mainDiv {
+     background: #fff;
+     border: 1px solid #e2e2e2;
+     box-shadow: 0 0 5px #888;
+     border-radius: 4px;
+     padding-top: 25px;
+     width: 800px;
+     position: relative;
+     bottom: initial;
+     left: 0;
+     height: auto;
+     right: 0;
+     margin: auto;
+     overflow-y: hidden;
+     top: 50%;
+     margin-top: 70px;
+     
+   }
+ 
+ .innerdiv{
+     padding: 32px;
+ }  
+ 
+ * {
+     box-sizing: border-box;
+   }
+ 
+ text{
+     text-align: start;
+     
+ }  
+   
+   /* Create two equal columns that floats next to each other */
+  

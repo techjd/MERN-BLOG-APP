@@ -1,0 +1,30 @@
+.text {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    
+    margin-left: 25px;
+    
+}
+
+.nav-main {
+    
+    align-items: center;
+}
+
+.main-text {
+    
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.mr-auto {
+    
+    margin-left: 280px;
+}
+
+.search {
+    margin-right: 400px;
+}
+
